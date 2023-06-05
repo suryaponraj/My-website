@@ -1,7 +1,7 @@
 import React from "react";
 import Section from "../components/Section";
 import ResumePDF from "../assets/Antony_Surya_Resume_final.pdf";
-import SGCartoon from "../assets/sagnik_cartoon.png";
+
 import {
   FaFacebookF,
   FaGithub,
@@ -34,7 +34,7 @@ export default function Home() {
       icon: <FaGithub />,
     },
     {
-      href: "https://www.instagram.com/sagnikghoshcr7",
+      href: "https://www.instagram.com/suryaponraj16/",
       icon: <FaInstagram />,
     },
   ];
@@ -59,20 +59,15 @@ export default function Home() {
             </a>
           </div>
         </div>
-        {/* <div className='col-md-3 mb-5 mb-lg-0' data-aos='fade-up'>
-          <img
-            src={SGCartoon}
-            alt="Sagnik Cartoon"
-            style={{height: '40vh', width: '40vh'}}
-          />
-        </div> */}
+        
       </div>
 
       <p className="lead mb-4">
         Innovative Frontend Developer Intern with JAVA and SQL Expertise |
         Passionate about Learning and Ready to take-up challenges. With a solid
         foundation as a Frontend Developer Intern, coupled with knowledge in SQL
-        and Java, I am ready to make a lasting impact in the ever-evolving world
+        and Java.</p>
+        <p className="lead mb-4"> I am ready to make a lasting impact in the ever-evolving world
         of technology. I am constantly seeking opportunities to expand my skill
         set. During my internship, I actively contributed to the development of
         dynamic web applications, collaborating with cross-functional teams to

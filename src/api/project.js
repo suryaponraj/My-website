@@ -1,9 +1,4 @@
-import Crwn from "../assets/portfolio/Crwn.jpg"
-import Tango from "../assets/portfolio/Tango.jpg"
-import Chumkin from "../assets/portfolio/Chumkin.jpg"
-import BCPrediction from "../assets/portfolio/BCPrediction.jpg"
-import CPPrediction from "../assets/portfolio/CPPrediction.jpg"
-import HDPrediction from "../assets/portfolio/HDPrediction.jpg"
+
 import project1 from  '../assets/portfolio/project1.jpeg'
 import project2 from '../assets/portfolio/project2.jpeg'
 import project3 from '../assets/portfolio/project3.jpeg'

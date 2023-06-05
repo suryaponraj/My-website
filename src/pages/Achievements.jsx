@@ -1,7 +1,7 @@
 import React from "react";
 import Section from "../components/Section";
 
-import { BsTrophy } from "react-icons/bs"
+
 import { RiFilePaper2Fill } from "react-icons/ri"
 
 export default function Achievements() {
