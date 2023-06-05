@@ -105,14 +105,11 @@ const Contact = () => {
             </div>
           </div>
           <div className='contact-map'>
-            <iframe
-              src='https://www.google.com/maps/embed/v1/place?q=place_id:ChIJlwFf1LJ5AjoRvDWWviQkk_U&key=AIzaSyAfIwaJqCMa9cw8u754GeIMuDwMqQYNSa8'
-              frameBorder='0'
+          <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m12!1m3!1d9068.497210916079!2d77.00197631564888!3d10.875003014150819!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!5e0!3m2!1sen!2sin!4v1685974244421!5m2!1sen!2sin" frameBorder='0'
               allowFullScreen=''
               aria-hidden='false'
               title='Contact Me'
-              tabIndex='0'
-            ></iframe>
+              tabIndex='0'></iframe>
           </div>
         </div>
       </div>

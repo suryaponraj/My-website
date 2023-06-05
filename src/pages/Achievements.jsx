@@ -11,74 +11,75 @@ export default function Achievements() {
         <ul className="fa-ul mb-0">
           <div>
             <span className="fa-li p-2">
-              <i className="fas fa-trophy text-warning"><BsTrophy /></i>
+              <i className="fas fa-trophy text-warning"><RiFilePaper2Fill /></i>
             </span>
-            <a href="https://drive.google.com/file/d/1AffY67ZamCGlrocrvHkmAT9NEYu3GNHd/view?usp=sharing">
-              Google Hash Code 2021
+            <a href="https://drive.google.com/file/d/1V7z9bkSNNIrqGhMsccJuG4rmkjWKqeiq/view?usp=sharing">
+              Introduction to SQL - Through DataCamp
             </a>
+            
           </div>
           <div>
             <span className="fa-li p-2">
-              <i className="fas fa-trophy text-warning"><BsTrophy /></i>
+              <i className="fas fa-trophy text-warning"><RiFilePaper2Fill /></i>
             </span>
-            <a href="https://drive.google.com/file/d/13RZHo6PMYYJ2C5r2QT5BPARK_DWS9Wcj/view?usp=sharing">
-              Google Code Jam 2021
-            </a>
-          </div>
-          <div>
-            <span className="fa-li p-2">
-              <i className="fas fa-trophy text-warning"><BsTrophy /></i>
-            </span>
-            <a href="https://www.codechef.com/users/sagnikghoshcr7/">
-              4⭐ on Codechef
+            <a href="https://drive.google.com/file/d/14cq1ZDY3egz29mT190ycTyU-pSDAmpW0/view?usp=sharing">
+              Python Fundamentals Task -Through DataCamp
             </a>
           </div>
           <div>
             <span className="fa-li p-2">
               <i className="fas fa-trophy text-warning"><RiFilePaper2Fill /></i>
             </span>
-            <a href="https://drive.google.com/file/d/191YHoGUN6K-Jj-1ExgD0HlXf6G81_4PC/view?usp=sharing">
-              Google Digital Garage
+            <a href="https://drive.google.com/file/d/1p4mX-1KPvsyTY9Wxle7_JquVhHnpDDrH/view?usp=sharing">
+              Introduction to Python - Through DataCamp
             </a>
           </div>
           <div>
             <span className="fa-li p-2">
               <i className="fas fa-trophy text-warning"><RiFilePaper2Fill /></i>
             </span>
-            <a href="https://www.udemy.com/certificate/UC-54585c1b-50b5-4471-ac9c-ae39d8b0a0a5/">
-              CNN for Computer Vision with Keras and TensorFlow in Python
+            <a href="https://drive.google.com/file/d/1XYxOGuk3eWS-h0IObUl7RRppUUXFCGXo/view?usp=sharing">
+              Javascript for Absolute Beginners - Through Udemy
             </a>
           </div>
           <div>
             <span className="fa-li p-2">
               <i className="fas fa-trophy text-warning"><RiFilePaper2Fill /></i>
             </span>
-            <a href="https://www.udemy.com/certificate/UC-cd27566a-419f-4b82-b4fb-956328fdf98f/">
-              Neural Networks in Python: Deep Learning
+            <a href="https://drive.google.com/file/d/1uMIs6JVWy_4qhf9HOsM-TYkTPOByDNdM/view?usp=sharing">
+              Introduction to HTML 5 - through Coursera
             </a>
           </div>
           <div>
             <span className="fa-li p-2">
               <i className="fas fa-trophy text-warning"><RiFilePaper2Fill /></i>
             </span>
-            <a href="https://www.udemy.com/certificate/UC-3caea225-1334-472c-83ec-a2046bc19a2b/">
-              Modern React with Redux
+            <a href="https://drive.google.com/file/d/1RJp7z3uLompDeVfc-uMyyA73YnYsR1Z6/view?usp=sharing">
+              Problem Solving through Programming in C - through NPTEL
             </a>
           </div>
           <div>
             <span className="fa-li p-2">
               <i className="fas fa-trophy text-warning"><RiFilePaper2Fill /></i>
             </span>
-            <a href="https://www.udemy.com/certificate/UC-9cce26a1-c7be-48b1-8dec-e60515641792/">
-              Flutter & Dart - The Complete Guide
+            <a href="https://drive.google.com/file/d/1LF5KSFgiBgAo5M6G0tz5nIX9vAVxreUl/view?usp=sharing">
+              Build your Portfolio website using HTML and CSS - through Coursera
             </a>
           </div>
           <div>
             <span className="fa-li p-2">
               <i className="fas fa-trophy text-warning"><RiFilePaper2Fill /></i>
             </span>
-            <a href="https://www.udemy.com/certificate/UC-735685b2-f95b-4e7f-b2bc-77a65ca8ceda/">
-              The Complete Flutter and Dart Guide
+            <a href="https://drive.google.com/file/d/1K4UpDc6x8nHgUHCqOffLvHV6kqu4WZ2y/view?usp=sharing">
+              Programming for Everybody -getting started with Python - through Coursera
+            </a>
+          </div>
+          <div>
+            <span className="fa-li p-2">
+              <i className="fas fa-trophy text-warning"><RiFilePaper2Fill /></i>
+            </span>
+            <a href="https://drive.google.com/file/d/1cLbpTd4g2rVut741SivSI6J-gCZ5Z6Lx/view?usp=sharing">
+              Javascript Basics - through Coursera
             </a>
           </div>
         </ul>

@@ -32,10 +32,10 @@ function App() {
           ></meta>
           <meta
             name="description"
-            content="Sagnik Ghosh - Fullstack Developer."
+            content="Antony Surya - Frontend Developer."
           />
-          <meta name="author" content="Sagnik Ghosh" />
-          <title>Sagnik Ghosh - Portfolio</title>
+          <meta name="author" content="Antony Surya" />
+          <title>Antony Surya - Portfolio</title>
         </Helmet>
         <div id="wrapper">
           <Navbar />
