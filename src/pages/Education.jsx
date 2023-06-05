@@ -29,7 +29,7 @@ export default function Education() {
       <div className="d-flex flex-column flex-md-row justify-content-between mb-5">
         <div className="flex-grow-1">
           <h3 className="mb-0">PMG Matriculation Higher Secondary School</h3>
-          <div className="subheading mb-3">HSC</div>
+          <div className="subheading mb-3">SSLC</div>
           <div>Science,Mathematics,English</div>
           <p>Percentage Scored : 98%</p>
         </div>
