@@ -39,7 +39,7 @@ export default function Achievements() {
               <i className="fas fa-trophy text-warning"><RiFilePaper2Fill /></i>
             </span>
             <a href="https://drive.google.com/file/d/1XYxOGuk3eWS-h0IObUl7RRppUUXFCGXo/view?usp=sharing">
-              Javascript for Absolute Beginners - Through Udemy
+              Javascript for Absolute Beginners - Through Udemy.
             </a>
           </div>
           <div>
